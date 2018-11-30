@@ -9,7 +9,9 @@ Run in the command line the command below (make sure you have the latest Terrafo
 (It works on Terraform 0.11.10 and azure rm provider 1.19.0 or above)
 
 terraform --version 
+
 terraform plan
+
 terraform apply
 
 ### How to configure Azure Active Directory and RBAC permissions on AKS

@@ -6,4 +6,5 @@
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
+#*.tfvars
+terraform/.vscode/settings.json
